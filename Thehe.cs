@@ -7,7 +7,7 @@ using nhapthongtinmotnguoi;
 
 namespace THEHE
 {
-    //hello
+    //hello hello
     class Thehe
     {
         private string sTenTheHe;
